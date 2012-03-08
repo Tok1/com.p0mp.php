@@ -1,5 +1,5 @@
-p0mp PHP Core
-=============
+p0mp README
+===========
 
 This is the main README file for the p0mp PHP Core. Information regarding the
 system can be found here. Along with other information that is interesting/
